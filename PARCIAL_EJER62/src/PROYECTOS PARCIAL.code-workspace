@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "PARCIAL_EJER26",
+			"path": "../../PARCIAL_EJER26"
+		},
+		{
+			"name": "PARCIAL_EJER35",
+			"path": "../../PARCIAL_EJER35"
+		},
+		{
+			"name": "PARCIAL_EJER44",
+			"path": "../../PARCIAL_EJER44"
+		},
+		{
+			"name": "PARCIAL_EJER53",
+			"path": "../../PARCIAL_EJER53"
+		},
+		{
+			"name": "PARCIAL_EJER62",
+			"path": ".."
+		},
+		{
+			"name": "PARCIAL_EJER71",
+			"path": "../../PARCIAL_EJER71"
+		}
+	],
+	"settings": {}
+}
